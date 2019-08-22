@@ -165,9 +165,10 @@ function Home(props) {
             "Get premium advice that is going to give you a completely new perspective on life.",
           images: [
             {
-              url: "https://files-7zuc7dnko.now.sh/level.jpg",
-              width: 1200,
-              height: 1200,
+              url:
+                "https://files-7cadzoip4.now.sh/Screen%20Shot%202019-08-22%20at%202.39.58%20PM.png",
+              width: 232,
+              height: 122,
               alt: "get some advice"
             }
           ]
@@ -177,9 +178,10 @@ function Home(props) {
           site: "@zealigan",
           cardType: "summary_large_image",
           image: {
-            url: "https://files-7zuc7dnko.now.sh/level.jpg",
-            width: 1200,
-            height: 1200,
+            url:
+              "https://files-7cadzoip4.now.sh/Screen%20Shot%202019-08-22%20at%202.39.58%20PM.png",
+            width: 232,
+            height: 122,
             alt: "get some advice"
           }
         }}
