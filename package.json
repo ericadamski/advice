@@ -1,0 +1,19 @@
+{
+  "name": "advice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.4",
+    "next-seo": "^2.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
