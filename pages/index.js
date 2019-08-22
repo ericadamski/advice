@@ -190,7 +190,12 @@ function Home(props) {
       {!dream ? (
         <Form onSubmit={submit}>
           <Text>
-            I want to - <Input type="text" name="dream" />
+            I want to -{" "}
+            <Input
+              type="text"
+              name="dream"
+              placeholder="be a successful entrepreneur"
+            />
           </Text>
           <Button>Get Advice</Button>
         </Form>
